@@ -9,7 +9,7 @@ google-auth-httplib2
 google-genai
 google-generativeai
 googleapis-common-protos
-google-ai-generativelanguag
+google-ai-generativelanguage
 
 langchain==0.3.27
 langchain-anthropic==0.3.19
