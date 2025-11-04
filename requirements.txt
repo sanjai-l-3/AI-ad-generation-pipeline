@@ -2,18 +2,18 @@ streamlit
 python-dotenv==1.1.1
 pydantic==2.11.7
 
-google-api-core==2.25.1
-google-api-python-client==2.181.0
-google-auth==2.40.3
-google-auth-httplib2==0.2.0
-google-genai==1.46.0
-google-generativeai==0.8.5
-googleapis-common-protos==1.70.0
-google-ai-generativelanguage==0.6.15
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-genai
+google-generativeai
+googleapis-common-protos
+google-ai-generativelanguag
 
 langchain==0.3.27
 langchain-anthropic==0.3.19
 langchain-community==0.3.29
 langchain-core==0.3.75
-langchain-google-genai==2.1.10
+langchain-google-genai
 langchain-openai==0.3.32
